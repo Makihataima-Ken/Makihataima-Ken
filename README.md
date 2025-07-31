@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <a href="https://github.com/makihataima-ken">
@@ -78,5 +78,11 @@
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makihataima-ken&theme=github_dark" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/makihataima-ken">
+      <img src="https://streak-stats.demolab.com?user=makihataima-ken&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" alt="makihataima-ken" width="100%"/>
   </a>
 </p>
