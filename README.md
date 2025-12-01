@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">A Digital Craftsman passionate to build!</h3>
+<h3 align="center">🐍 Python Developer | 🤖 AI Enthusiast | ☁️ Scalable Systems Builder</h3>
+
+<!-- Typing SVG Animation -->
+<p align="center">
+  <a href="https://github.com/makihataima-ken">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFF00&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+Java;Django+%7C+Spring+Boot+%7C+REST+APIs;AI+%26+ML+Learner+%7C+NLP+Projects;Clean+Architecture+%7C+Microservices;Docker+%7C+PostgreSQL+%7C+Scalable+Systems" />
+  </a>
+</p>
 
 ---
+### 🌟 About Me  
+- 🔭 Currently working on: Lava_and_Aqua
+- 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and Microservices
+- 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms
+- 🤔 Exploring how to builed reinforcement agent.  
+- 🎯 Goal for 2025: Become an AI-focused backend engineer
+- 📫 How to reach me: ahmadsoud63@gmail.com
+- ⚡ Fun fact: I enjoy turning ideas into automated Python tools — from web scraping to AI-powered generators.  
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -54,13 +69,13 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/makihataima-ken">
       <img src="https://github-readme-stats.vercel.app/api?username=makihataima-ken&show_icons=true&locale=en&theme=github_dark" alt="makihataima-ken" width="100%"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makihataima-ken&theme=github_dark" width="100%"/>
@@ -81,8 +96,16 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/makihataima-ken">
       <img src="https://streak-stats.demolab.com?user=makihataima-ken&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" alt="makihataima-ken" width="100%"/>
   </a>
+</p> -->
+
+🤝 Connect With Me
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/ahmad-soud-aa9412220/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a> 
+  <a href="mailto:ahmadsoud63@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a> 
+  <a href="https://github.com/makihataima-ken"><img src="https://skillicons.dev/icons?i=github" width="50" /></a> 
+  <a href="https://www.kaggle.com/ahmadsoud"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" /></a>
 </p>
