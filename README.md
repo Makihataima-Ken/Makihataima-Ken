@@ -10,7 +10,7 @@
 
 ---
 ### 🌟 About Me  
-- 🔭 Currently working on: Lava_and_Aqua
+- 🔭 Currently working on: <a href="https://github.com/Makihataima-Ken/Lava_N_Aqua">Lava_and_Aqua </a>
 - 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and Microservices
 - 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms
 - 🤔 Exploring how to builed reinforcement agent.  
