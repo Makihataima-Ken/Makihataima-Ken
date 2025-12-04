@@ -11,9 +11,9 @@
 ---
 ### 🌟 About Me  
 - 🔭 Currently working on: <a href="https://github.com/Makihataima-Ken/Lava_N_Aqua">Lava_and_Aqua </a>
-- 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and Microservices
+- 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and design patterns.
 - 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms
-- 🤔 Exploring how to builed reinforcement agent.  
+- 🤔 Exploring how to builed Reinforcement agents.  
 - 🎯 Goal for 2025: Become an AI-focused backend engineer
 - 📫 How to reach me: ahmadsoud63@gmail.com
 - ⚡ Fun fact: I enjoy turning ideas into automated Python tools — from web scraping to AI-powered generators.  
