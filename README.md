@@ -14,9 +14,9 @@
 - 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and design patterns.
 - 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms
 - 🤔 Exploring how to builed Reinforcement agents.  
-- 🎯 Goal for 2025: Become an AI-focused backend engineer
+- 🎯 Goal for 2026: Become an AI-focused backend engineer
 - 📫 How to reach me: ahmadsoud63@gmail.com
-- ⚡ Fun fact: I enjoy turning ideas into automated Python tools — from web scraping to AI-powered generators.  
+- ⚡ Fun fact: I enjoy turning ideas into automated Python tools.  
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
