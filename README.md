@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">🐍 Python Developer | 🤖 AI Enthusiast | ☁️ Scalable Systems Builder</h3>
+<h3 align="center">🚀 Backend & AI Engineer | 🤖 AI-Driven Systems | ☁️ Scalable Architecture</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -10,13 +10,14 @@
 
 ---
 ### 🌟 About Me  
+- 🧪 Recently worked as **AI & Legacy Systems R&D Intern @ Perennix Ltd**  
 - 🔭 Currently working on: <a href="https://github.com/Makihataima-Ken/Lava_N_Aqua">Lava_and_Aqua </a>
 - 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and design patterns.
 - 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms
-- 🤔 Exploring how to builed Reinforcement agents.  
-- 🎯 Goal for 2026: Become an AI-focused backend engineer
+- 👯 Open to collaborating on **AI tools, backend platforms, and system-level projects**  
+- 🎯 Goal for 2026: Become a **Backend Engineer specializing in AI-driven systems**
 - 📫 How to reach me: ahmadsoud63@gmail.com
-- ⚡ Fun fact: I enjoy turning ideas into automated Python tools.  
+- ⚡ Fun fact: I enjoy building systems that **automate complex problems with AI** 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
