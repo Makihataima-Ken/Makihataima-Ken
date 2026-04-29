@@ -13,8 +13,7 @@
 - 🧪 Recently worked as **AI & Legacy Systems R&D Intern @ Perennix Ltd**  
 - 🔭 Currently working on: <a href="https://github.com/Makihataima-Ken/Lava_N_Aqua">Lava_and_Aqua </a>
 - 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and design patterns.
-- 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms
-- 👯 Open to collaborating on **AI tools, backend platforms, and system-level projects**  
+- 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms 
 - 🎯 Goal for 2026: Become a **Backend Engineer specializing in AI-driven systems**
 - 📫 How to reach me: ahmadsoud63@gmail.com
 - ⚡ Fun fact: I enjoy building systems that **automate complex problems with AI** 
