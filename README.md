@@ -10,8 +10,9 @@
 
 ---
 ### 🌟 About Me  
+- 👔 Currenly working as **Software Developer Intern @ <a href="https://github.com/McLeuker">Mcleuker</a>**
 - 🧪 Recently worked as **AI & Legacy Systems R&D Intern @ Perennix Ltd**  
-- 🔭 Currently working on: <a href="https://github.com/Makihataima-Ken/Lava_N_Aqua">Lava_and_Aqua </a>
+- 🔭 Currently working on: <a href="https://github.com/Makihataima-Ken/Driver-Monitoring-System">Driver Monitoring System</a>
 - 🌱 Learning: Machine Learning (Andrew Ng), Neural Networks, and design patterns.
 - 👯 Looking to collaborate on: AI tools, backend systems, or open-source platforms 
 - 🎯 Goal for 2026: Become a **Backend Engineer specializing in AI-driven systems**
