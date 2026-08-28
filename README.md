@@ -4,7 +4,7 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://github.com/makihataima-ken">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFF00&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+Java;Django+%7C+Spring+Boot+%7C+REST+APIs;AI+%26+ML+Learner+%7C+NLP+Projects;Clean+Architecture+%7C+Microservices;Docker+%7C+PostgreSQL+%7C+Scalable+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFF00&center=true&vCenter=true&width=650&lines=Digital+Craftsman;Django+%7C+Spring+Boot+%7C+REST+APIs;AI+%26+ML+Learner+%7C+NLP+Projects;Clean+Architecture+%7C+Microservices;Docker+%7C+PostgreSQL+%7C+Scalable+Systems" />
   </a>
 </p>
 
