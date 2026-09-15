@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=makihataima-ken&label=Profile%20views&color=FFFF00&style=flat" alt="Profile views" />
+</p> -->
+
 ---
 ### 🌟 About Me  
 - 👔 Recently worked as **Software Developer Intern @ <a href="https://github.com/McLeuker">Mcleuker</a>**
