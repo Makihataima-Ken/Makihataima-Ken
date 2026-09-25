@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=makihataima-ken&label=Profile%20views&color=FFFF00&style=flat" alt="Profile views" />
 </p> -->
 
----
 ### 🌟 About Me  
 - 👔 Recently worked as **Software Developer Intern @ <a href="https://github.com/McLeuker">Mcleuker</a>**
 - 🧪 Recently worked as **AI & Legacy Systems R&D Intern @  <a href="https://perennix.io/">Perennix Ltd**  
@@ -42,7 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40"/>
 </p>
----
 
 <!-- <h3 align="left">📊 GitHub Streak</h3> -->
 <!-- <p align="center">
