@@ -42,8 +42,8 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40"/>
 </p>
 
-<!-- <h3 align="left">📊 GitHub Streak</h3> -->
-<!-- <p align="center">
+<!-- <h3 align="left">📊 GitHub Streak</h3>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=makihataima-ken&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D" height="165" />
 </p> -->
 
